@@ -1,6 +1,8 @@
 # Swoley Fit
+**Check out the live site**: [https://s-swolify-webapp.netlify.app/](https://s-swolify-webapp.netlify.app/)
 
 Swoley Fit is a fitness application built with React and Tailwind CSS. It allows users to generate and track workout routines based on their fitness goals and muscle groups.
+
 
 ## Table of Contents
 
