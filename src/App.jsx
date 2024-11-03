@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import Workout from './components/Workout'
-import Hero from './components/hero'
+import Hero from './components/Hero'
 import Generator from './components/Generator'
 import { generateWorkout } from './utils/functions'
 
